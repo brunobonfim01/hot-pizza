@@ -1,0 +1,155 @@
+
+body {
+	background-color: #060606;
+	background-image: url(../img/images2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	marks: 0px;
+}
+
+
+
+#banner{
+	background-color: rgba(0 ,0 ,0 ,.5);
+	height: 140px;
+	padding: 30px,70px,30px,70px;
+	font-family: "helvetica neve",sans-serife;
+}
+
+#banner h1 {
+	float: left;
+	margin: 0px;
+}
+
+#banner h1 img {
+	height: 120px;
+	width: 350px;
+	border: 0px;
+}
+
+#banner ul {
+	margin: 0px;
+}
+
+
+#banner nav{
+	float: right;
+	position: relative;
+	top: 50px;
+}
+#banner nav ul li {
+	display: inline-block;
+	width: 100px;
+}
+
+#banner nav ul li a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: ;
+	font-family: "helvetica neve", sans-serife;
+
+}
+
+
+#vantagens ul li {
+	color: red;
+	font-size: 32px;
+	font-family: "helvetica neve", sans-serife;
+
+
+
+
+
+
+
+
+#sabores-pizza h2 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "helvetica neve", sans-serife;
+	color: #fff;
+	font-size: 32px;
+	margin: 0px;
+	line-height: 6;
+}
+
+#sabores-pizza  p {
+	color: yellow;
+	font-size: 26px;
+	text-align: center;
+	font-family: "helvetica neve",sans-serife;
+}
+ 
+#sabores-pizza p strong {
+	color: red;
+}
+
+#tabela table {
+	background-color: #2a2a2a;
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 80%;
+
+}
+
+#tabela table td,
+#tabela table th  {
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "helvetica neve",sans-serife;
+	font-size: 12px;
+	border: 1px #000 solid;
+	padding: 25px;
+
+}
+
+#tabela .texto-negativo{
+	color: red;
+} 
+
+#tabela .texto-positivo{
+	color: green;
+}
+
+#tabela .texto-neutro{
+	color: yellow;
+}
+
+
+
+}
+
+#copyright a img {
+	display: block;
+	text-align: center;
+}
+
+#copyright p {
+	text-align: center;
+	color: #fff;
+	font-size: 12px;
+	font-family: "helvetica neve",sans-serife;
+}
+
+#sabores-pizza {
+	padding-bottom: 60px;
+	margin-top: 400px;
+}
+
+#copyright {
+	padding: 35px ,0px ,18px ,0px;
+	/*background-color: #060606;*/
+}
+
+#vantagens ul li {
+	color: red;
+	font-size: 32px;
+	font-family: "helvetica neve", sans-serife;
+
+
+
+}
+
